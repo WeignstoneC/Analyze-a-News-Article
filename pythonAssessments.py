@@ -73,6 +73,8 @@ def identify_most_common_word(text):
             most_common = word
 
     return most_common
+
+
 def calculate_average_word_length(text):
     """
     Calculates the average word length.
